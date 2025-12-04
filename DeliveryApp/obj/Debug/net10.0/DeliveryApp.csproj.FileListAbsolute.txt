@@ -1,0 +1,14 @@
+/Users/nastya/lab-3-oop/DeliveryApp/bin/Debug/net10.0/DeliveryApp
+/Users/nastya/lab-3-oop/DeliveryApp/bin/Debug/net10.0/DeliveryApp.deps.json
+/Users/nastya/lab-3-oop/DeliveryApp/bin/Debug/net10.0/DeliveryApp.runtimeconfig.json
+/Users/nastya/lab-3-oop/DeliveryApp/bin/Debug/net10.0/DeliveryApp.dll
+/Users/nastya/lab-3-oop/DeliveryApp/bin/Debug/net10.0/DeliveryApp.pdb
+/Users/nastya/lab-3-oop/DeliveryApp/obj/Debug/net10.0/DeliveryApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nastya/lab-3-oop/DeliveryApp/obj/Debug/net10.0/DeliveryApp.AssemblyInfoInputs.cache
+/Users/nastya/lab-3-oop/DeliveryApp/obj/Debug/net10.0/DeliveryApp.AssemblyInfo.cs
+/Users/nastya/lab-3-oop/DeliveryApp/obj/Debug/net10.0/DeliveryApp.csproj.CoreCompileInputs.cache
+/Users/nastya/lab-3-oop/DeliveryApp/obj/Debug/net10.0/DeliveryApp.dll
+/Users/nastya/lab-3-oop/DeliveryApp/obj/Debug/net10.0/refint/DeliveryApp.dll
+/Users/nastya/lab-3-oop/DeliveryApp/obj/Debug/net10.0/DeliveryApp.pdb
+/Users/nastya/lab-3-oop/DeliveryApp/obj/Debug/net10.0/DeliveryApp.genruntimeconfig.cache
+/Users/nastya/lab-3-oop/DeliveryApp/obj/Debug/net10.0/ref/DeliveryApp.dll
